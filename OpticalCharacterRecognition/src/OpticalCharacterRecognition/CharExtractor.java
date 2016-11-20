@@ -13,6 +13,7 @@ import java.util.Vector;
 import javax.imageio.ImageIO;
 
 //mysecondcommit
+//all commits
 public class CharExtractor {
 	
 	BufferedImage img,edgeImg;
